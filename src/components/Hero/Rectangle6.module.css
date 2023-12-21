@@ -1,0 +1,15 @@
+.rectangle6 {
+  max-width: 100%;
+  background-color: transparent;
+  /* border: 2px solid red; */
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  position: relative;
+  border-bottom-right-radius: 35px;
+  border-bottom-left-radius: 35px;
+  padding: 0 1.67rem 8rem;
+  background-color: lightgreen;
+}
