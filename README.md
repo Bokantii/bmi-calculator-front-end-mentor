@@ -71,4 +71,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 # bmi-calculator-front-end-mentor
 
-A BMI calculator is a tool used to estimate a person's body fat based on their height and weight.
+A BMI calculator is a tool used to estimate a person's body fat based on their height and weight.This is a front end mentor challenge to build one
